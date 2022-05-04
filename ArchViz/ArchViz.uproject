@@ -58,6 +58,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "GPULightmass",
+			"Enabled": true
+		},
+		{
 			"Name": "PythonScriptPlugin",
 			"Enabled": true
 		},
@@ -75,18 +79,6 @@
 		},
 		{
 			"Name": "MoviePipelineMaskRenderPass",
-			"Enabled": true
-		},
-		{
-			"Name": "ElectraPlayer",
-			"Enabled": true
-		},
-		{
-			"Name": "RemoteControl",
-			"Enabled": true
-		},
-		{
-			"Name": "GPULightmass",
 			"Enabled": true
 		},
 		{
