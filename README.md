@@ -10,16 +10,22 @@ The project contains a real-time application developed with **Unreal Engine 5.0.
 *Only exception for vegetation using Quixel Megascans libraries.
 
 ## Contributor
-Germán Insua - Game Development Degree 
-*[Webpage]* -  www.germaninsua.com 
+Germán Insua - Game Development Degree
+
+*[Webpage]* -  www.germaninsua.com
+
 *[Github]* -  https://github.com/Germanins6
 
 ## Application Controls
 
 **Key 1:** 
+
 **Key 2:** Enable player controller and navigate through the scene
+
 **Key 3**: Start camera sequences
+
 **Escape:** Exit application
+
 **L:** Turn *on/off* artificial lighting
  
 ## Lincese
