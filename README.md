@@ -2,12 +2,15 @@
 
 ## Contributor
 Germán Insua - Game Development Degree at CITM-UPC
-*[Webpage]* -  www.germaninsua.com 
+
+*[Webpage]* -  www.germaninsua.com
+
 *[Github]* -  https://github.com/Germanins6
 
 ## Project repository
 
 *[Project]* - https://github.com/Germanins6/Architectural_Visualization
+
 *[Releases]* - https://github.com/Germanins6/Architectural_Visualization/releases
 
 ## Project Description
@@ -32,10 +35,13 @@ The project contains a real-time application developed with **Unreal Engine 5.0.
 >In settings menu the user can cap framerate(by default uncaped at -1), change between different screen resolutions, enable/disable Vsync, change scalability settings related with quality settings and exit the application.
 
 **L:** Turn *on/off* artificial lighting.
+
 **Q/E:** Camera Up/Down.
 
 ### Debug Modes
+
 **F1:** Show GPU status.
+
 **F2:** Show current framerate.
 
 ## ChangeLog
@@ -51,6 +57,7 @@ The project contains a real-time application developed with **Unreal Engine 5.0.
 - Added static viewpoints to the camera array.
 - Placed finished assets in some areas.
 - Escape to exit application function added.
+- Enable/Disable lights functional.
 
 **-version 0.3**
 
@@ -58,7 +65,7 @@ The project contains a real-time application developed with **Unreal Engine 5.0.
 - Quit button instead escape.
 - Key bindings to display performance indicators( current framerate, gpu status...).
 
-**-version 0.3**
+**-version 0.3.1**
 
 - Improved and optimized UI for scalability settings.
 
